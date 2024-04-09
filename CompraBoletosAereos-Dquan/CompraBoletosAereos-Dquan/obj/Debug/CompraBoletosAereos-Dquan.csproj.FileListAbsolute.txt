@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\bin\Debug\CompraBoletosAereos-Dquan.exe.config
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\bin\Debug\CompraBoletosAereos-Dquan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\bin\Debug\CompraBoletosAereos-Dquan.pdb
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos-Dquan.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos_Dquan.Form1.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos_Dquan.Properties.Resources.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos-Dquan.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos-Dquan.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos-Dquan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\CompraBoletosAereos-Dquan\CompraBoletosAereos-Dquan\obj\Debug\CompraBoletosAereos-Dquan.pdb
